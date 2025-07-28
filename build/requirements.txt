@@ -1,0 +1,20 @@
+# Dragon's Lair RPG - Requirements
+# ================================
+# 
+# This file lists all the dependencies needed to run Dragon's Lair RPG.
+# Install with: pip install -r requirements.txt
+#
+# RESOURCE: This makes it easy to install all required packages.
+
+# Core game dependencies
+pygame>=2.0.0
+numpy>=1.20.0
+
+# Development dependencies (optional)
+# Uncomment these for development work:
+# pytest>=6.0
+# black>=21.0
+# flake8>=3.8
+# twine>=3.0.0
+# wheel>=0.37.0
+# setuptools>=45.0.0 
